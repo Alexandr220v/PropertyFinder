@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Assesment1" />
+        <module name="Assesment4" />
+        <module name="Assesment5" />
+        <module name="calculator" />
+        <module name="mobile" />
+        <module name="MobileProject" />
+        <module name="propertyFinder" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Assesment1" target="1.5" />
+      <module name="Assesment4" target="1.5" />
+      <module name="Assesment5" target="1.5" />
+      <module name="calculator" target="1.5" />
+      <module name="mobile" target="1.5" />
+      <module name="MobileProject" target="1.5" />
+      <module name="PropertyFinder" target="1.5" />
+      <module name="propertyFinder" target="1.5" />
+      <module name="PropertyfinderQA" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

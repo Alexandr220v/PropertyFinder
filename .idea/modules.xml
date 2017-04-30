@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assesment1/Assesment1.iml" filepath="$PROJECT_DIR$/Assesment1/Assesment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PropertyFinder/Assesment4.iml" filepath="$PROJECT_DIR$/PropertyFinder/Assesment4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MobileProject/Assesment5.iml" filepath="$PROJECT_DIR$/MobileProject/Assesment5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PropertyfinderQA.iml" filepath="$PROJECT_DIR$/PropertyfinderQA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assesment1/calculator.iml" filepath="$PROJECT_DIR$/Assesment1/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MobileProject/mobile.iml" filepath="$PROJECT_DIR$/MobileProject/mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PropertyFinder/propertyFinder.iml" filepath="$PROJECT_DIR$/PropertyFinder/propertyFinder.iml" />
+    </modules>
+  </component>
+</project>
